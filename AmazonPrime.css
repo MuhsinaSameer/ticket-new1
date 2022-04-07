@@ -1,0 +1,144 @@
+.header{
+    width:100%;
+    height:70px ;
+    background:#0f171e;
+    background-image: linear-gradient(180deg,#1b2530 0,rgba(27,37,48,.85));
+}
+body{
+    margin:0;
+}
+.image{
+    width:115px;
+    height: 35px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.EN{
+    width:55px;
+    height: 25px;
+    margin-left: 90%;
+    margin-top: -30px;
+    float: left;
+    cursor: pointer;
+}
+h3{
+    margin-top:-30px ;
+    padding-left: 25px;
+    color: #fff;
+}
+.image2{
+    width:25px;
+    height: 30px;
+}
+.button{
+    width:62px;
+    height: 20px;
+    margin-left:1280px;
+    margin-top: -25px;
+    cursor: pointer;
+}
+.banner{
+    width:100%;
+    height: 440px;
+    display: flex;
+    flex-direction: row;
+}
+.text-section{
+    width:45%;
+    height:440px;
+    background: black;
+}
+.image-section{
+    width:55%;
+    height:440px;
+}
+.banner-a{
+    width:100%;
+    margin-left: 0px;
+    height:440px;
+    margin-top: 0px;
+   
+}
+.item1{
+    width:100%;
+    height:500px;
+}
+.text{
+    width:50%;
+    float: left;
+}
+.text-1{
+  margin-top: 50px;
+  font-size: 50px;
+  margin-left: 40px;
+  font-family: "Amazon Ember";
+  font-weight: 100;
+}
+.text-2{
+    margin-left: 40px;
+    font-size: 25px;
+    font-weight: 50;
+    font-family: "Amazon Ember";
+}
+
+.channels{
+    width:50%;
+    float: left;
+    height:500px;
+    margin-top: 50px;
+}
+.DVPAWebWidgetsCustomComponents_Image__image{
+    width: 190px;
+    height: 135px;
+    margin-top: 100px;
+    float: left;
+}
+.DVPAWebWidgetsCustomComponents_Image__image{
+    margin-left: 5px;
+}
+.DVPAWebWidgetsCustomComponents_Image__image{
+    margin-top: 5px;
+}
+.item2{
+    width:100%;
+    height:460px;
+    background:black;
+    display: flex;
+    flex-direction: row;
+}
+.text-section2{
+    width:50%;
+    height:520px;
+    background: black;
+    margin-top: -60px;
+}
+.image-section2{
+    width:51%;
+    height:520px;
+    margin-top: -60px;
+}
+.footer{
+    width:100%;
+    height:130px;
+    background:#0f171e;
+    background-image: linear-gradient(180deg,#1b2530 0,rgba(27,37,48,.85));
+    margin-top: 0px;
+}
+.logo-2{
+    width: 88px;
+    height:45px ;
+    margin-left:-20px;
+    margin-top: 20px;
+}
+.DVPAWebWidgetsFooter_Footer__text{
+    margin-top: 70px;
+    margin-left: 380px;
+    color:blue;
+    float: left;
+}
+.footer-text2{
+     width:500px;
+    height: 20px;
+    margin-top:5px;
+    margin-left:700px;
+}
